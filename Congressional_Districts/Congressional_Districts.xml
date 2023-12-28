@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Congressional Districts</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The 118th Congressional Districts dataset reflects boundaries from January 4, 2023 from the United States Census Bureau (USCB), and the attributes are updated every Sunday from the United States House of Representatives and is part of the U.S. Department of Transportation (USDOT)/Bureau of Transportation Statistics (BTS) National Transportation Atlas Database (NTAD). The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Congressional districts are the 435 areas from which people are elected to the U.S. House of Representatives. This dataset also includes 9 geographies for non-voting at large delegate districts, resident commissioner districts, and congressional districts that are not defined. After the apportionment of congressional seats among the states based on census population counts, each state is responsible for establishing congressional districts for the purpose of electing representatives. Each congressional district is to be as equal in population to all other congressional districts in a state as practicable. The 118th Congress is seated from January 3, 2023 through January 3, 2025. In Connecticut, Illinois, and New Hampshire, the Redistricting Data Program (RDP) participant did not define the CDs to cover all of the state or state equivalent area. In these areas with no CDs defined, the code &amp;quot;ZZ&amp;quot; has been assigned, which is treated as a single CD for purposes of data presentation. The TIGER/Line shapefiles for the District of Columbia, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands) each contain a single record for the non-voting delegate district in these areas. The boundaries of all other congressional districts reflect information provided to the Census Bureau by the states by August 31, 2022.</abstract>
+            <purpose>In order for others to use the information in the Census MAF/TIGER database in a geographic information system (GIS) or for other geographic applications, the Census Bureau releases to the public extracts of the database in the form of TIGER/Line Shapefiles.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>USA</themekey>
+                <themekey>National</themekey>
+                <themekey>NTAD</themekey>
+                <themekey>National Transportation Atlas Database</themekey>
+                <themekey>Transportation</themekey>
+                <themekey>Atlas</themekey>
+                <themekey>Database</themekey>
+                <themekey>Administrative</themekey>
+                <themekey>Boundary</themekey>
+                <themekey>Congress</themekey>
+                <themekey>Congressional</themekey>
+                <themekey>District</themekey>
+                <themekey>118</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Acknowledgment of the U.S. Department of Commerce, U.S. Census Bureau, Geography Division; U.S. House of Representatives; and the Bureau of Transportation Statistics (BTS) [distributor].</useconst>
+        <datacred>NTAD datasets are intended for public usage and are not for sale/resale</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
